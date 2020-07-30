@@ -1,3 +1,0 @@
-json/DXYArea-TimeSeries.json filter=lfs diff=lfs merge=lfs -text
-json/DXYOverall-TimeSeries.json filter=lfs diff=lfs merge=lfs -text
-json/DXYRumors-TimeSeries.json filter=lfs diff=lfs merge=lfs -text
